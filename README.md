@@ -1,2 +1,3 @@
-# arduino-car-ios-remote-controll
-iOS application for remote control of the car based on the Arduino UNO microcontroller 
+# Arduino Car - Remote Control iOS App
+
+> iOS application for remote control of the car based on the Arduino UNO microcontroller 
